@@ -1,7 +1,7 @@
 # Customer_churn_prediction
 Predicting customer churn at health company Health First
 
- -The data consist of details of customers at Health First, a hypothetical company focussed on improving the health of the nation
+- The data consist of details of customers at Health First, a hypothetical company focussed on improving the health of the nation
 
 - Included in the data are variables such as the customer’s gender, what motivated them to improve their health, what their biggest challenges are and whether or not they churned during a six week period
 
